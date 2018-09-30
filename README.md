@@ -4,7 +4,7 @@ A simple surfing game made for the 2017 Global Game Jam.  The main character's s
 
 The mouse controls the level of the waves while the player can jump and lean back and forth tp avoid falling over and accumulate points.  There are also some different/weird/dumb artstyle options.
 
-###Credits:
+##Credits:
 Music by **Kevin Macleod**
 *'Chill Wave'* **Kevin MacLeod** ( [incompetech](incompetech.com) )
 Licensed under Creative Commons: By Attribution 3.0 License
